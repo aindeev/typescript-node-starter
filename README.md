@@ -1,2 +1,2 @@
 # typescript-node-starter
-Simpler Typescript Node Starter
+Simple Typescript Node Starter
