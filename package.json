@@ -1,0 +1,22 @@
+{
+  "name": "typescript-node-starter",
+  "version": "1.0.0",
+  "description": "Simple Typescript Node Starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aindeev/typescript-node-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aindeev/typescript-node-starter/issues"
+  },
+  "homepage": "https://github.com/aindeev/typescript-node-starter#readme",
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
+}
